@@ -1,0 +1,10 @@
+C:\Users\Rathsara\source\repos\Hash Calculator\Hash Calculator\bin\Debug\Hash Calculator.exe.config
+C:\Users\Rathsara\source\repos\Hash Calculator\Hash Calculator\bin\Debug\Hash Calculator.exe
+C:\Users\Rathsara\source\repos\Hash Calculator\Hash Calculator\bin\Debug\Hash Calculator.pdb
+C:\Users\Rathsara\source\repos\Hash Calculator\Hash Calculator\obj\Debug\Hash Calculator.csprojAssemblyReference.cache
+C:\Users\Rathsara\source\repos\Hash Calculator\Hash Calculator\obj\Debug\Hash_Calculator.Form1.resources
+C:\Users\Rathsara\source\repos\Hash Calculator\Hash Calculator\obj\Debug\Hash_Calculator.Properties.Resources.resources
+C:\Users\Rathsara\source\repos\Hash Calculator\Hash Calculator\obj\Debug\Hash Calculator.csproj.GenerateResource.cache
+C:\Users\Rathsara\source\repos\Hash Calculator\Hash Calculator\obj\Debug\Hash Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Rathsara\source\repos\Hash Calculator\Hash Calculator\obj\Debug\Hash Calculator.exe
+C:\Users\Rathsara\source\repos\Hash Calculator\Hash Calculator\obj\Debug\Hash Calculator.pdb
